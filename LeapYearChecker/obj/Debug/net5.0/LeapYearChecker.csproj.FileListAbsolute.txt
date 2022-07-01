@@ -1,0 +1,15 @@
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/bin/Debug/net5.0/LeapYearChecker.deps.json
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/bin/Debug/net5.0/LeapYearChecker.runtimeconfig.json
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/bin/Debug/net5.0/LeapYearChecker.runtimeconfig.dev.json
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/bin/Debug/net5.0/LeapYearChecker.dll
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/bin/Debug/net5.0/ref/LeapYearChecker.dll
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/bin/Debug/net5.0/LeapYearChecker.pdb
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.csproj.AssemblyReference.cache
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.AssemblyInfoInputs.cache
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.AssemblyInfo.cs
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.csproj.CoreCompileInputs.cache
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.dll
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/ref/LeapYearChecker.dll
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.pdb
+/Users/gregoryotokhina/RiderProjects/LeapYearChecker/LeapYearChecker/obj/Debug/net5.0/LeapYearChecker.genruntimeconfig.cache
